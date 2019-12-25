@@ -4,6 +4,13 @@ Verkefni 4 snýst um að útfæra vefþjónustu fyrir verkefnalista.
 
 Verkefnið er tvíþætt, að útfæra virkni fyrir vefþjónustlista og að útbúa vefþjónustuskil ofan á þá virkni.
 
+## Verkefnið keyrandi á vefnum
+Hér er hægt að skoða verkefnið mitt, það tekur smá stund fyrir verkefnið að byrja að keyra eftir að þið opnið linkinn
+
+Við mælum með að skoða verkefnið með forriti eins og Postman eða einhverjum JSON formatter þar sem þetta er vefþjónusta og öll gögn eru á JSON-formi.
+* https://bjorgvin-v4.herokuapp.com/ 
+
+
 ## Virkni
 
 Útfæra skal virkni í `todos.js`, öll föll skjal skjala með [`jsdoc`](https://github.com/vefforritun/vef2-2019/blob/master/fyrirlestrar/02/02.1.modules.md#skj%C3%B6lun-eininga).
